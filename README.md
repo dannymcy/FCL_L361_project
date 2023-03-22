@@ -1,5 +1,5 @@
 # FCL_L361_project
-Final project of L361 by Chenyang Ma and Yuwei Zhang
+This work is done in the final project of L361 by Chenyang Ma and Yuwei Zhang.
 
 All the code and included in `L361_Project.ipynb`. The starting code is based on Lab 2 of the L361 course. The notebook can also be accessed through the [link](https://colab.research.google.com/drive/1K77dGJ-UbJfcBQppnGveB68as27K2M-L?usp=sharing) here.
 
